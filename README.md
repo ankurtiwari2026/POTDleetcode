@@ -1,6 +1,4 @@
-# ankur
-this is my new repo
-<br>
-Hello coders
+# Leetcode
+# Hello coders here is daily problem solution of leetcode
 
 
